@@ -1,0 +1,28 @@
+{
+  "instrument_data": {
+    "AnalogRytm": {
+      "midi_port": 5,
+      "midi_chan": 1,
+      "multi": true,
+      "no_xpose": true,
+      "no_fts": true,
+      "no_thru": true,
+      "row_defs": {
+        "C 0": "BD ",
+        "C#0": "SD ",
+        "D 0": "RS ",
+        "D#0": "CLP",
+        "E 0": "BT ",
+        "F 0": "LT ",
+        "F#0": "MT ",
+        "G 0": "HT ",
+        "G#0": "CHH",
+        "A 0": "OHH",
+        "A#0": "CSH",
+        "B 0": "COW"
+      },
+      "track_values": {
+      }
+    }
+  }
+}
