@@ -2,7 +2,7 @@
   "instrument_data": {
     "AnalogRytm": {
       "midi_port": 5,
-      "midi_chan": 1,
+      "midi_chan": 14,
       "multi": true,
       "no_xpose": true,
       "no_fts": true,
