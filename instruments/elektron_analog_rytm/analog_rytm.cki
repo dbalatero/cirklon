@@ -1,6 +1,6 @@
 {
   "instrument_data": {
-    "AnalogRytm": {
+    "ARYTM": {
       "midi_port": 5,
       "midi_chan": 14,
       "multi": true,
@@ -87,7 +87,7 @@
         "slot_63": { "MIDI_CC": 108, "label": "LFOTrigMode" }
       }
     },
-    "AnalogRytmFX": {
+    "ARYTMFX": {
       "midi_port": 5,
       "midi_chan": 13,
       "multi": false,
