@@ -86,44 +86,6 @@
         "slot_62": { "MIDI_CC": 107, "label": "LFOStartPhase" },
         "slot_63": { "MIDI_CC": 108, "label": "LFOTrigMode" }
       }
-    },
-    "ARYTMFX": {
-      "midi_port": 5,
-      "midi_chan": 13,
-      "multi": false,
-      "no_xpose": true,
-      "no_fts": true,
-      "no_thru": true,
-      "track_values": {
-        "slot_1": { "MIDI_CC": 16, "label": "DelayTime" },
-        "slot_2": { "MIDI_CC": 17, "label": "DelayPingpong" },
-        "slot_3": { "MIDI_CC": 18, "label": "DelayStereoWidth" },
-        "slot_4": { "MIDI_CC": 19, "label": "DelayFeedback" },
-        "slot_5": { "MIDI_CC": 20, "label": "DelayHighpassFilter" },
-        "slot_6": { "MIDI_CC": 21, "label": "DelayLowpassFilter" },
-        "slot_7": { "MIDI_CC": 22, "label": "DelayReverbSend" },
-        "slot_8": { "MIDI_CC": 23, "label": "DelayMixVolume" },
-        "slot_9": { "MIDI_CC": 24, "label": "ReverbPredelay" },
-        "slot_10": { "MIDI_CC": 25, "label": "ReverbDecayTime" },
-        "slot_11": { "MIDI_CC": 26, "label": "ReverbShelvingFreq" },
-        "slot_12": { "MIDI_CC": 27, "label": "ReverbShelvingGain" },
-        "slot_13": { "MIDI_CC": 28, "label": "ReverbHighpassFilter" },
-        "slot_14": { "MIDI_CC": 29, "label": "ReverbLowpassFilter" },
-        "slot_15": { "MIDI_CC": 31, "label": "ReverbMixVolume" },
-        "slot_16": { "MIDI_CC": 70, "label": "DistAmount" },
-        "slot_17": { "MIDI_CC": 71, "label": "DistSymmetry" },
-        "slot_18": { "MIDI_CC": 72, "label": "DelayOverdrive" },
-        "slot_19": { "MIDI_CC": 76, "label": "DelayDist/CompRouting" },
-        "slot_20": { "MIDI_CC": 77, "label": "ReverbDist/CompRouting" },
-        "slot_21": { "MIDI_CC": 78, "label": "CompressorThreshold" },
-        "slot_22": { "MIDI_CC": 79, "label": "CompressorAttackTime" },
-        "slot_23": { "MIDI_CC": 80, "label": "CompressorReleaseTime" },
-        "slot_24": { "MIDI_CC": 81, "label": "CompressorMakeupGain" },
-        "slot_25": { "MIDI_CC": 82, "label": "CompressorRatio" },
-        "slot_26": { "MIDI_CC": 83, "label": "CompressorSidechainEQ" },
-        "slot_27": { "MIDI_CC": 84, "label": "CompressorDry/WetMix" },
-        "slot_28": { "MIDI_CC": 85, "label": "CompressorOutputVolume" }
-      }
     }
   }
 }
