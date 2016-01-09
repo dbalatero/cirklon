@@ -1,7 +1,7 @@
 {
     "instrument_data": {
         "AMBIKA": {
-            "midi_port": 2,
+            "midi_port": 5,
             "midi_chan": 1,
             "multi": true,
             "track_values": {

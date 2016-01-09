@@ -1,7 +1,7 @@
 {
   "instrument_data": {
     "ARYTMFX": {
-      "midi_port": 5,
+      "midi_port": 1,
       "midi_chan": 13,
       "multi": false,
       "no_xpose": true,

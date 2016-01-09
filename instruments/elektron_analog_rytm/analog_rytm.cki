@@ -1,7 +1,7 @@
 {
   "instrument_data": {
     "ARYTM": {
-      "midi_port": 5,
+      "midi_port": 1,
       "midi_chan": 14,
       "multi": true,
       "no_xpose": true,

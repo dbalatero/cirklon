@@ -1,8 +1,8 @@
 {
   "instrument_data": {
     "Juno106": {
-      "midi_port": 1,
-      "midi_chan": 1
+      "midi_port": 3,
+      "midi_chan": 16
     }
   }
 }
