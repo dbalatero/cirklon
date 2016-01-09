@@ -1,0 +1,8 @@
+{
+  "instrument_data": {
+    "HR16": {
+      "midi_port": 2,
+      "midi_chan": 3
+    }
+  }
+}

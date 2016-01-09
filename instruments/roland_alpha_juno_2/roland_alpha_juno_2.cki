@@ -1,0 +1,8 @@
+{
+  "instrument_data": {
+    "AJuno2": {
+      "midi_port": 3,
+      "midi_chan": 16
+    }
+  }
+}

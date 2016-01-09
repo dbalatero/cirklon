@@ -1,0 +1,12 @@
+{
+  "instrument_data": {
+    "Streich": {
+      "midi_port": 3,
+      "midi_chan": 14
+    },
+    "StreichSolo": {
+      "midi_port": 3,
+      "midi_chan": 15
+    }
+  }
+}

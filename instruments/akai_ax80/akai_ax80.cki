@@ -1,0 +1,8 @@
+{
+  "instrument_data": {
+    "AX80": {
+      "midi_port": 2,
+      "midi_chan": 2
+    }
+  }
+}

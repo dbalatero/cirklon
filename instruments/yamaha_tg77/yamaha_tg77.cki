@@ -1,0 +1,9 @@
+{
+  "instrument_data": {
+    "TG77": {
+      "midi_port": 4,
+      "midi_chan": 1,
+      "multi": true
+    }
+  }
+}

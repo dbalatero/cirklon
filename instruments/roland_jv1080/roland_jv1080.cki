@@ -1,0 +1,9 @@
+{
+  "instrument_data": {
+    "JV1080": {
+      "midi_port": 3,
+      "midi_chan": 1,
+      "multi": true
+    }
+  }
+}
